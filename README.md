@@ -4,6 +4,7 @@ To track individuals daily expenses
 The Personal Expense Tracker is a Python-based command-line application that helps users manage their daily expenses efficiently.
 
 **Features**:
+
 -Add Expenses
 
 -View Expenses
@@ -19,12 +20,17 @@ The Personal Expense Tracker is a Python-based command-line application that hel
 -Error Handling
 
 **Technologies Used**:
+
 -Python 3
+
 -CSV Module
+
 -Datetime Module
+
 -Matplotlib
 
 **Installation**:
+
 1. Clone the repository
 git clone https://github.com/yourusername/personal-expense-tracker.git
 
