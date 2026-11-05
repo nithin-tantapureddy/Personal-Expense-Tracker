@@ -5,11 +5,17 @@ The Personal Expense Tracker is a Python-based command-line application that hel
 
 **Features**:
 -Add Expenses
+
 -View Expenses
+
 -Generate Expense Reports
+
 -Category-wise Analysis
+
 -CSV File Storage
+
 -Expense Visualization using Matplotlib
+
 -Error Handling
 
 **Technologies Used**:
